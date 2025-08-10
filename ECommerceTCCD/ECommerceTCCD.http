@@ -1,0 +1,6 @@
+@ECommerceTCCD_HostAddress = http://localhost:5262
+
+GET {{ECommerceTCCD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
